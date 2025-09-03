@@ -1,1 +1,9 @@
 .bash_history
+.bashrc
+.bash_logout
+.profile
+.ssh/
+.cache/
+.gitconfig
+jenkins-task-2/
+.sudo_as_admin_successful
